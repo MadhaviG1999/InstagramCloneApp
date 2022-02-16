@@ -1,0 +1,31 @@
+.info_container{
+    height: 250px;
+    width:50px;
+    margin-top:50px;
+    margin-left:-50px;
+    display:flex;
+
+}
+.info_image{
+    min-width: 50px;
+    min-height: 50px;
+    margin-top:10px;
+    margin-left: 60px;
+
+}
+.info_content{
+ margin-top:10px;
+}
+.info_username{
+margin-left:15px;
+font-weight: bold;
+}
+.info_description{
+    margin-left:15px;
+}
+.info_switch{
+    text-align: right;
+    margin-top: 20px;
+    margin-left:100px;
+    font-weight: bold;
+}
