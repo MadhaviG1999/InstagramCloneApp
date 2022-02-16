@@ -1,0 +1,79 @@
+.suggestions_container{
+    height:290px;
+    width:325px;
+    margin-top:-170px;
+    margin-left:-40px;
+
+}
+.suggestions_header{
+    font-weight:bold;
+    color:#8e8e8e;
+    margin-left: 60px;
+
+}
+.suggestions_body{
+    height: 256px;
+    width:290px;
+    margin-top: 10px;
+
+}
+.suggestions_friends{
+    display:flex;
+    padding:5px 0px;
+    margin-left: 60px;
+    
+
+}
+.suggestions_image{
+    max-height:45px;
+    max-width:45px; 
+    margin-top:10px;
+}
+.suggestions_username{
+   font-weight:bold;
+   margin-top:20px;
+   margin-left:5px;
+   
+}
+.suggestions_follow{
+    text-align: right;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:skyblue;
+}
+.suggestions_foll{
+    text-align: right;
+    margin-left: 90px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:skyblue;
+}
+.suggestions_fol{
+    text-align: right;
+    margin-left: 130px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:skyblue;
+}
+.suggestions_folow{
+    text-align: right;
+    margin-left: 115px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:skyblue;
+}
+.suggestions_fo{
+    text-align: right;
+    margin-left: 93px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:skyblue;
+}
+.suggestions_f{
+    text-align: right;
+    margin-left: 115px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:skyblue;
+}
