@@ -1,0 +1,10 @@
+.mainpage__uploadicon{
+    margin-top: 7px;
+    margin-left:300px ;
+    margin-right: 100px;
+    margin-bottom:1px;
+}
+
+.fileupload > input {
+    display: none;
+}
