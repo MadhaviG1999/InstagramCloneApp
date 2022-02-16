@@ -1,0 +1,14 @@
+.loginpage_logo{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+.loginpage_component{
+    width:380px;
+    padding-bottom:25px;
+    border:1px solid #DBDBDB;
+    margin-top:55px;
+    text-align:center;
+    margin-left:450px;
+    background-color: white;
+}
